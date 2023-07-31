@@ -6,7 +6,7 @@ This repository contains the front-end code for the Langchain web application bu
 
 To install and run this application locally, you will need to have Node.js and NPM installed on your system. Once you have these dependencies installed, you can follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/Super-Smile/Langchain-Chat.git`
+1. Clone this repository to your local machine using `git clone https://github.com/Pro-WebTech/Langchain-Chat.git`
 2. Navigate to the project directory and run `npm install` to install the required dependencies.
 3. Run the command `npm start` to start the development server.
 4. Open your web browser and navigate to `http://localhost:3000` to view the application.
